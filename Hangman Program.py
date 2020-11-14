@@ -1,8 +1,6 @@
-#CENG1004 INTRODUCTION TO PROGRAMMING (MIDTERM EXAM TAKE HOME)
-
 #NAME: Görkem
 #SURNAME: Yelken
-#STUDENT NO: 172010010032
+
 
 from random import randint
 import string
