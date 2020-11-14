@@ -1,4 +1,3 @@
-
 #NAME: Görkem
 #SURNAME: Yelken
 
